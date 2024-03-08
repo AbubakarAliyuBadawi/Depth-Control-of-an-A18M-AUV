@@ -1,0 +1,58 @@
+{
+	"Propeller": {
+		"T_n_n": 9.05,
+		"T_n_u": -17.93,
+		"Q_n_n": 0.43,
+		"Q_n_u": -0.79,
+		"rpm_sat": [-550,550]
+	},
+	"Mecanic": {
+		"inertia_matrix": [
+			[241.85,0,0],
+			[0,4173.5,0],
+			[0,0,4173.5]
+		],
+		"added_water_matrix": [
+			[68.6,0,0,0,0,0],
+			[0,1845.9,0,0,0,0],
+			[0,0,1845.9,0,0,0],
+			[0,0,0,150,0,0],
+			[0,0,0,0,3388.76,0],
+			[0,0,0,0,0,3388.76]
+		],
+		"surface_reference": 0.385,
+		"length_reference": 5,
+		"mass_with_on_board_water": 1974.26,
+		"volume": 0.98,
+		"mass": 1005.275,
+		"center_of_gravity_veh_ref": [0,0,0.03],
+		"center_of_buoyancy_veh_ref": [0,0,0]
+	},
+	"Hydrodynamic": {
+		"Ksh": -47.1282,
+		"CYuv": -3.7898,
+		"CYur": 1.9450,
+		"CZ0": -0.01,
+		"CZuw": -3.1582,
+		"CZuq": -1.9394,
+		"CLup": -0.002,
+		"CM0": -0.02,
+		"CMuw": 0.9133,
+		"CMuq": -0.8673,
+		"CNuv": -0.8220,
+		"CNur": -0.9476
+	},
+	"XRearHelms": {
+		"CX": -0.31,
+		"CY": 0.38,
+		"CZ": -0.41,
+		"CL": 0.02,
+		"CM": -0.17,
+		"CN": -0.15,
+		"Bmax_rad": 0.5236
+	},
+	"Environment": {
+		"Rho": 1026,
+		"nu": 1.2e-06
+	}
+}
