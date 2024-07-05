@@ -4,7 +4,7 @@
 This repository contains the MATLAB and Simulink models used to develop and test a Linear Quadratic Regulator (LQR) for controlling the depth of the A18M Autonomous Underwater Vehicle (AUV). The project's goal was to optimize depth control with minimal pitch oscillations, crucial for the AUV's mission of underwater mine detection.
 
 ![AUV Model](Plots/A-18%20AUV.png)
-*A-18 Autonomous Underwater Vehicle used in simulations.*
+*Figure 1: A-18 Autonomous Underwater Vehicle used in simulations.*
 
 ### Background
 The A18M, an AUV developed by ECARobotics, is designed for efficient and accurate underwater mine detection. Effective mine detection requires a stable platform, necessitating precise control over the vehicle's movements, especially in the vertical plane.
