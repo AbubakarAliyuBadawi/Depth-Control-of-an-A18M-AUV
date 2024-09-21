@@ -1,7 +1,7 @@
 # Depth Control of A18M Autonomous Underwater Vehicle
 
 ## Project Overview
-This repository contains the MATLAB and Simulink models used to develop and test a Linear Quadratic Regulator (LQR) for controlling the depth of the A18M Autonomous Underwater Vehicle (AUV). The project's goal was to optimize depth control with minimal pitch oscillations, crucial for the AUV's mission of underwater mine detection
+This repository contains the MATLAB and Simulink models used to develop and test a Linear Quadratic Regulator (LQR) for controlling the A18M Autonomous Underwater Vehicle (AUV) depth. The project's goal was to optimize depth control with minimal pitch oscillations, crucial for the AUV's mission of underwater mine detection
 
 ## Group Members
 - **[Abubakar Aliyu Badawi](https://www.linkedin.com/in/abubakar-aliyu-badawi-41533b150/)**
